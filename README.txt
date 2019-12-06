@@ -1,0 +1,3 @@
+Thanks for viewing my game :). its definetly still a WIP, usually whenever i have free time ill work on it, but between work and school that comes pretty rarely. 
+
+The game itself is supposed to be a homage to the small genre of vaporwave, which in and of itself is a homage to the late 80's aesthetic/sound. One of my main reasons for creating the game is just to get a better understanding of how objs work, how to work with them, and to brush up on my code. It's really more something to helpme activley learn, along with youtube videos, about how games actually get created, and so far its been very fun, albeit, alot of work. 
